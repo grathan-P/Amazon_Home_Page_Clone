@@ -26,10 +26,8 @@ The focus of this project was on:
 ## Screenshots
 <img width="1882" height="897" alt="image" src="https://github.com/user-attachments/assets/af5b80da-3774-48e9-99e9-c0b59c93ec9f" />
 <img width="1892" height="917" alt="image" src="https://github.com/user-attachments/assets/f2a776ca-9b77-40c6-9894-497b249f6216" />
+<img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/ca59a153-85c4-44c6-ad3c-c40b3cf0bd40" />
 
----
-
-<img width="1896" height="914" alt="image" src="https://github.com/user-attachments/assets/f615b27f-2cc5-4bb3-928c-ebc70c8a3156" />
 
 ---
 
